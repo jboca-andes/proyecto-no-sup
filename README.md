@@ -23,5 +23,5 @@ Este proyecto consta de 4 componentes principales
         -  Localizacion del equipo de futbol destino (Hemisferio norte, Ecuador, Hemisferio sur)
 
 
-Vea el video de presentación [Aquí](https://youtu.be/KLXoVq4_yqc)
-Vea el tablero de control [Aquí](https://app.powerbi.com/view?r=eyJrIjoiOTA1NDBiYTktM2ZjOC00NTY5LTg1MWMtYjRhNWEyZDIwOWMyIiwidCI6IjVmZmIyOTg2LTQ2MDctNDQwZS1iYjBmLWQyYjlmZmU2NjZlOSIsImMiOjR9)
+- Vea el video de presentación [Aquí](https://youtu.be/KLXoVq4_yqc)
+- Vea el tablero de control [Aquí](https://app.powerbi.com/view?r=eyJrIjoiOTA1NDBiYTktM2ZjOC00NTY5LTg1MWMtYjRhNWEyZDIwOWMyIiwidCI6IjVmZmIyOTg2LTQ2MDctNDQwZS1iYjBmLWQyYjlmZmU2NjZlOSIsImMiOjR9)
