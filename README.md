@@ -16,7 +16,12 @@ Este proyecto consta de 4 componentes principales
     - Defensa [Disponible aquí](https://github.com/jboca-andes/proyecto-no-sup/blob/main/codigo/modelamiento%20defensa.ipynb)
     - Delanteros [Disponible aquí](https://github.com/jboca-andes/proyecto-no-sup/blob/main/codigo/modelamiento%20delanteros.ipynb)
     - Arqueros [Disponible aquí](https://github.com/jboca-andes/proyecto-no-sup/blob/main/codigo/modelamiento%20arquero.ipynb)
-4. Las conclusiones _En desarrollo_
+4. Las conclusiones:
+    - Aunque el modelamiento de los datos es un concepto validado, el juicio de experto sigue teniendo una relevancia suficiente como para poder concluir que este tipo de procesos requieren una persona con suficiente conocimiento del negocio como para poder avalar y/o aportar en el desarrollo de los mismos, este tipo de escenarios abren una puerta en terminos de la captura de información adicional como por ejemplo:
+        -  Rendimiento fisico de los jugadores
+        -  Temporada destino (Invierno, verano)
+        -  Localizacion del equipo de futbol destino (Hemisferio norte, Ecuador, Hemisferio sur)
 
 
+Vea el video de presentación [Aquí](https://youtu.be/KLXoVq4_yqc)
 Vea el tablero de control [Aquí](https://app.powerbi.com/view?r=eyJrIjoiOTA1NDBiYTktM2ZjOC00NTY5LTg1MWMtYjRhNWEyZDIwOWMyIiwidCI6IjVmZmIyOTg2LTQ2MDctNDQwZS1iYjBmLWQyYjlmZmU2NjZlOSIsImMiOjR9)
